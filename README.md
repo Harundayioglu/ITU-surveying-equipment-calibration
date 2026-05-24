@@ -21,7 +21,7 @@ The core repository is structured into two primary geodetic homework (HW) projec
 
 ---
 
-## 🛠️ Project Details & Technical Specifications
+## Project Details & Technical Specifications
 
 ### PART I: Total Station Axis Verification
 * **Objective:** Assess the perpendicularity conditions of the instrument's structural axes and eliminate systematic eccentricities.
@@ -76,7 +76,7 @@ The core repository is structured into two primary geodetic homework (HW) projec
 * **Harun Dayıoğlu** - *Geomatics Engineering Undergraduate, ITU*
 * Project Partners & Course Colleagues 
 
-## 🏛️ Academic Context
+## Academic Context
 * **Institution:** Istanbul Technical University (İTÜ)  
 * **Faculty:** Faculty of Civil Engineering  
 * **Department:** Department of Geomatics Engineering  
