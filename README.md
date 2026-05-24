@@ -60,7 +60,7 @@ The core repository is structured into two primary geodetic homework (HW) projec
   * Staff B1 (30m) Center Reading: 1.130 | Computed Mean: **1.130**
 * **Station 2 (Outside Setup):**
   * Staff A2 (63m) Center Reading: 2.690 | Corrected Mean: **2.691**
-  * Staff B2 (3m)  Center Reading: 1.612  | Computed Mean: **1.612**
+  * Staff B2 (3m)  Center Reading: 1.612   | Computed Mean: **1.612**
 
 ---
 
